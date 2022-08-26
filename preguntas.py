@@ -22,7 +22,7 @@ def pregunta_01():
 
     """
     # escribo todo mi codigo aqui
-    
+    # codigo con mi respuesta
     return 300
 
 
