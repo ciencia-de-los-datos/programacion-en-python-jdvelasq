@@ -21,7 +21,9 @@ def pregunta_01():
     214
 
     """
-    return 215
+    # escribo todo mi codigo aqui
+    
+    return 300
 
 
 def pregunta_02():
