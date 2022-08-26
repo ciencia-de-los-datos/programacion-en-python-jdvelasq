@@ -23,7 +23,7 @@ def pregunta_01():
     """
     # escribo todo mi codigo aqui
     # codigo con mi respuesta
-    return 280
+    return 666
 
 
 def pregunta_02():
